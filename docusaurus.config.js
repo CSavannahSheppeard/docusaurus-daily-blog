@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Jeff Gonzalez Developer Site',
+  title: 'Caitlin Sheppeard Developer Site',
   tagline: 'Notes about Software Development',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
